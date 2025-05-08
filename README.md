@@ -1,3 +1,3 @@
-Vehicle Maintenance Prediction System
+**Vehicle Maintenance Prediction System**
 
 The Steamlit is available here:
