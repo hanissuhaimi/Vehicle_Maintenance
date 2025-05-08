@@ -7,7 +7,7 @@ import joblib
 def load_model_and_encoders():
     model = joblib.load('service_prediction_model.pkl')
     encoders = joblib.load('label_encoders.pkl')
-    df = pd.read_csv("vehicle_data.csv")
+    df = pd.read_csv("C:/Users/i.hanis/PycharmProjects/VehicleMaintenance/data/vehicle_data.csv")
     df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")
 
     # Recompute problem_frequency if not present
@@ -43,10 +43,13 @@ if submitted:
         else:
             problem_frequency = 0.0
 
+        # Encode common problem safely
         if common_problem in encoders['common_problem'].classes_:
             common_problem_encoded = encoders['common_problem'].transform([common_problem])[0]
         else:
-            common_problem_encoded = df['common_problem_encoded'].mode()[0]
+            # Fallback: use most frequent encoded class (mode)
+            fallback_class = df['common_problem'].mode()[0]
+            common_problem_encoded = encoders['common_problem'].transform([fallback_class])[0]
 
         features = [[mileage_last_service, current_mileage, mileage_diff,
                      service_interval_ratio, problem_frequency, common_problem_encoded]]
@@ -57,5 +60,3 @@ if submitted:
         st.success(f"Recommended Service: {predicted_service}")
     except Exception as e:
         st.error(f"Prediction failed: {e}")
-
- 
