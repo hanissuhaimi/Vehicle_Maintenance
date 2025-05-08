@@ -1,0 +1,509 @@
+DRIVER ID,MILEAGE LAST SERVICE,MILEAGE,SERVICE HISTORY,COMMON PROBLEM,SOLUTION USED
+1,22940,38448,Oil Change; Brake Repair,Brake noise,Brake pad replacement
+2,9514,39738,Engine Repair; Tire Rotation,Engine overheating,Radiator replacement
+3,44584,57372,Bodywork; Paint Job,Dents and scratches,Body repair and repaint
+4,16733,39790,Oil Change; General Maintenance,Oil leak,Oil seal replacement
+5,20934,38051,Tire Alignment; Engine Repair,Misaligned wheels,Wheel alignment
+6,20071,30575,Check Engine Light; Diagnostics,Check engine light,Diagnostic scan and repairs
+7,63852,69615,Brake Service; Oil Change,Brake fluid leak,Brake fluid replacement
+8,26797,30000,Exhaust Repair; General Maintenance,Exhaust leak,Exhaust system repair
+9,9208,30512,Transmission Service; Brake Fluid Change,Slipping transmission,Transmission fluid change
+10,15064,33433,Body Repair; Tire Replacement,Body damage,Body repair
+11,22781,38242,Oil Change; Brake Inspection,Brake noise,Brake pad replacement
+12,38095,52056,Engine Diagnostics; Tune-Up,Engine misfiring,Spark plug replacement
+13,22509,50744,Suspension Repair; Brake Service,Steering issues,Suspension adjustment
+14,21619,63908,Tire Rotation; General Maintenance,Tire wear,Tire rotation and balancing
+15,50324,50603,Transmission Fluid Change; Engine Repair,Transmission issues,Transmission service
+16,10398,37816,Brake Inspection; Diagnostics,Brake wear,Brake replacement
+17,44311,52867,Oil Change; Tire Alignment,Misaligned wheels,Wheel alignment
+18,20789,74308,Exhaust Leak; General Maintenance,Exhaust noise,Exhaust system repair
+19,7004,43568,Check Engine Light; Brake Fluid Change,Check engine light,Diagnostic scan
+20,32300,45503,Tire Replacement; Oil Change,Poor fuel economy,Fuel system cleaning
+21,28316,44667,Fluid Leak; Tire Rotation,Fluid leak,Fluid replacement
+22,53340,55608,Engine Overheating; Diagnostics,Engine overheating,Cooling system flush
+23,35558,46228,Transmission Repair; Brake Service,Transmission slipping,Transmission fluid change
+24,29676,36459,Oil Change; Battery Replacement,Dead battery,Battery replacement
+25,57646,63131,Tire Alignment; General Maintenance,Misaligned tires,Tire alignment
+26,23112,33966,Brake Inspection; Oil Change,Brake noise,Brake pad replacement
+27,68282,69429,Engine Diagnostics; Tune-Up,Engine misfiring,Spark plug replacement
+28,7537,39652,Suspension Repair; Brake Service,Steering issues,Suspension adjustment
+29,44706,49655,Tire Rotation; General Maintenance,Tire wear,Tire rotation and balancing
+30,55375,58495,Transmission Fluid Change; Engine Repair,Transmission issues,Transmission service
+31,14211,34634,Brake Inspection; Diagnostics,Brake wear,Brake replacement
+32,14180,69257,Oil Change; Tire Alignment,Misaligned wheels,Wheel alignment
+33,19468,73227,Exhaust Leak; General Maintenance,Exhaust noise,Exhaust system repair
+34,47268,49802,Check Engine Light; Brake Fluid Change,Check engine light,Diagnostic scan
+35,28467,67934,Tire Replacement; Oil Change,Poor fuel economy,Fuel system cleaning
+36,60365,63570,Fluid Leak; Tire Rotation,Fluid leak,Fluid replacement
+37,30115,36695,Engine Overheating; Diagnostics,Engine overheating,Cooling system flush
+38,37302,68069,Transmission Repair; Brake Service,Transmission slipping,Transmission fluid change
+39,34173,71279,Oil Change; Battery Inspection,Dead battery,Battery replacement
+40,54943,63200,Tire Alignment; General Maintenance,Tire wear,Tire rotation
+41,40770,42049,Brake Repair; Oil Change,Brake squeal,Brake pad replacement
+42,30902,32346,Engine Check; Suspension Repair,Steering issues,Suspension adjustment
+43,65127,73467,Exhaust Repair; Brake Service,Exhaust noise,Exhaust system repair
+44,21812,31114,Transmission Service; Oil Change,Slipping transmission,Transmission fluid change
+45,42794,50467,Fluid Check; Tire Replacement,Poor fuel economy,Fuel system cleaning
+46,23300,57235,Check Engine Light; General Maintenance,Check engine light,Diagnostic scan
+47,51354,67082,Brake Fluid Change; Engine Repair,Brake fluid leak,Brake fluid replacement
+48,62083,67696,Tire Alignment; Oil Change,Misaligned wheels,Wheel alignment
+49,10172,32122,Oil Change; Battery Replacement,Dead battery,Battery replacement
+50,31141,53507,Engine Diagnostics; Tire Rotation,Engine misfiring,Spark plug replacement
+51,20288,40105,Brake Inspection; General Maintenance,Brake noise,Brake pad replacement
+52,61450,73632,Exhaust Leak; Oil Change,Exhaust noise,Exhaust system repair
+53,24651,30517,Transmission Repair; Brake Fluid Change,Transmission slipping,Transmission fluid change
+54,14062,35675,Oil Change; Battery Check,Dead battery,Battery replacement
+55,24326,37521,Fluid Leak; Tire Alignment,Fluid leak,Fluid replacement
+56,57732,61190,Suspension Repair; Engine Check,Steering issues,Suspension adjustment
+57,16423,35194,Brake Service; General Maintenance,Brake wear,Brake replacement
+58,26280,45475,Exhaust Repair; Oil Change,Exhaust noise,Exhaust system repair
+59,73130,74963,"Oil Change, Brake Inspection",Engine overheating,Check coolant level; flush radiator; replace thermostat.
+60,16340,53857,"Tire Rotation, Brake Replacement",Brakes making noise,Inspect pads/rotors; replace if worn.
+61,6560,45960, Transmission Service; Diagnostics, Transmission slipping, Transmission fluid change
+62,17794,45761, Tire Replacement; Oil Change, Poor fuel economy, Fuel system cleaning
+63,13886,42175, Exhaust Repair; Brake Service, Exhaust noise, Exhaust system repair
+64,20165,58641, Brake Inspection; Tire Rotation, Misaligned wheels, Wheel alignment
+65,26666,47026, General Maintenance; Engine Check, Engine misfiring, Spark plug replacement
+66,51611,64071, Suspension Repair; Oil Change, Steering issues, Suspension adjustment
+67,18394,39682, Engine Repair; Tire Alignment, Misaligned tires, Tire alignment
+68,32337,39851, Battery Replacement; General Maintenance, Dead battery, Battery replacement
+69,9052,44911, Exhaust Leak; Diagnostics, Exhaust leak, Exhaust system repair
+70,21416,36577, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement
+71,6999,42352, Tire Alignment; General Maintenance, Tire wear, Tire rotation and balancing
+72,5817,33054, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush
+73,35810,68629, Brake Repair; Tire Replacement, Body damage, Body repair
+74,52312,57150, Fluid Leak; Oil Change, Fluid leak, Fluid replacement
+75,29863,62912, General Maintenance; Engine Diagnostics, Check engine light, Diagnostic scan
+76,16112,43254, Brake Service; Oil Change, Brake wear, Brake replacement
+77,19144,44113, Tire Replacement; Engine Check, Tire wear, Tire rotation and balancing
+78,20109,46841, Exhaust Repair; Brake Fluid Change, Exhaust noise, Exhaust system repair
+79,35129,47366, Oil Change; Brake Inspection, Brake noise, Brake pad replacement
+80,26415,54686, Engine Repair; Diagnostics, Engine misfire, Diagnostic scan
+81,62433,68183, Tire Rotation; Brake Service, Tire wear, Tire rotation and balancing
+82,11550,50545, Fluid Check; Oil Change, Low oil, Oil replacement
+83,42449,48122, Brake Inspection; General Maintenance, Brake noise, Brake pad replacement
+84,44821,55162, Engine Diagnostics; Tune-Up, Engine roughness, Spark plug replacement
+85,63338,67311, Transmission Fluid Change; Brake Service, Slipping transmission, Transmission fluid change
+86,20120,59222, General Maintenance; Tire Inspection, Tire wear, Tire rotation
+87,10292,65622, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement
+88,37525,39264, Exhaust Repair; Engine Check, Exhaust noise, Exhaust system repair
+89,9552,33442, Battery Inspection; General Maintenance, Dead battery, Battery replacement
+90,38184,51116, Fluid Leak; Tire Rotation, Fluid leak, Fluid replacement
+91,42329,67052, Engine Repair; Brake Service, Engine overheating, Cooling system flush
+92,42149,69122, Brake Inspection; Oil Change, Brake noise, Brake pad replacement
+93,8957,62453, Tire Replacement; Diagnostics, Tire damage, Tire replacement
+94,30285,43638, General Maintenance; Engine Repair, Engine misfiring, Spark plug replacement
+95,19969,51527, Suspension Repair; Oil Change, Steering issues, Suspension adjustment
+96,39259,52824, Brake Service; Tire Inspection, Brake wear, Brake pad replacement
+97,7755,33374, Fluid Check; Engine Diagnostics, Fluid leak, Fluid replacement
+98,14909,52920, Tire Alignment; Brake Inspection, Misaligned tires, Tire alignment
+99,19038,36893, Exhaust Leak; General Maintenance, Exhaust noise, Exhaust system repair
+100,24948,74222, Brake Repair; Oil Change, Brake noise, Brake pad replacement
+101,41739,63101, Oil Change; Brake Repair, Brake noise, Brake pad replacement
+102,33852,60828, Transmission Service; Diagnostics, Transmission slipping, Transmission fluid change
+103,37198,46657, Tire Replacement; Oil Change, Poor fuel economy, Fuel system cleaning
+104,72483,73079, Exhaust Repair; Brake Service, Exhaust noise, Exhaust system repair
+105,43504,71309, Brake Inspection; Tire Rotation, Misaligned wheels, Wheel alignment
+106,8081,47462, General Maintenance; Engine Check, Engine misfiring, Spark plug replacement
+107,63697,64583, Suspension Repair; Oil Change, Steering issues, Suspension adjustment
+108,15431,43289, Engine Repair; Tire Alignment, Misaligned tires, Tire alignment
+109,16588,41459, Battery Replacement; General Maintenance, Dead battery, Battery replacement
+110,39356,52163, Exhaust Leak; Diagnostics, Exhaust leak, Exhaust system repair
+111,13604,41131, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement
+112,67200,67215, Tire Alignment; General Maintenance, Tire wear, Tire rotation and balancing
+113,48937,69146, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush
+114,31096,49022, Brake Repair; Tire Replacement, Body damage, Body repair
+115,38287,48279, Fluid Leak; Oil Change, Fluid leak, Fluid replacement
+116,30337,66111, General Maintenance; Engine Diagnostics, Check engine light, Diagnostic scan
+117,25749,36225, Brake Service; Oil Change, Brake wear, Brake replacement
+118,14065,73265, Tire Replacement; Engine Check, Tire wear, Tire rotation and balancing
+119,31108,42293, Exhaust Repair; Brake Fluid Change, Exhaust noise, Exhaust system repair
+120,24360,32758, Oil Change; Brake Inspection, Brake noise, Brake pad replacement
+121,22127,72632, Engine Repair; Diagnostics, Engine misfire, Diagnostic scan
+122,25485,33119, Tire Rotation; Brake Service, Tire wear, Tire rotation and balancing
+123,50514,64799, Fluid Check; Oil Change, Low oil, Oil replacement
+124,54418,62942, Brake Inspection; General Maintenance, Brake noise, Brake pad replacement
+125,14729,69515, Engine Diagnostics; Tune-Up, Engine roughness, Spark plug replacement
+126,48084,54076, Transmission Fluid Change; Brake Service, Slipping transmission, Transmission fluid change
+127,43436,70800, General Maintenance; Tire Inspection, Tire wear, Tire rotation
+128,54984,70434, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement
+129,9278,49451, Exhaust Repair; Engine Check, Exhaust noise, Exhaust system repair
+130,13671,52060, Battery Inspection; General Maintenance, Dead battery, Battery replacement
+131,19661,59566, Fluid Leak; Tire Rotation, Fluid leak, Fluid replacement
+132,34137,60761, Engine Repair; Brake Service, Engine overheating, Cooling system flush
+133,49739,73263, Brake Inspection; Oil Change, Brake noise, Brake pad replacement
+134,46382,63267, Tire Replacement; Diagnostics, Tire damage, Tire replacement
+135,13358,30494, General Maintenance; Engine Repair, Engine misfiring, Spark plug replacement
+136,10580,59376, Suspension Repair; Oil Change, Steering issues, Suspension adjustment
+137,13938,61362, Brake Service; Tire Inspection, Brake wear, Brake pad replacement
+138,31069,63766, Fluid Check; Engine Diagnostics, Fluid leak, Fluid replacement
+139,9266,31308, Tire Alignment; Brake Inspection, Misaligned tires, Tire alignment
+140,12281,41967, Exhaust Leak; General Maintenance, Exhaust noise, Exhaust system repair
+141,44927,45006, Brake Repair; Oil Change, Brake noise, Brake pad replacement
+142,18931,57269, Oil Change; Brake Repair, Brake noise, Brake pad replacement
+143,8656,30863, Transmission Service; Diagnostics, Transmission slipping, Transmission fluid change
+144,5351,35503, Tire Replacement; Oil Change, Poor fuel economy, Fuel system cleaning
+145,40311,43799, Exhaust Repair; Brake Service, Exhaust noise, Exhaust system repair
+146,40334,74499, Brake Inspection; Tire Rotation, Misaligned wheels, Wheel alignment
+147,5296,43875, General Maintenance; Engine Check, Engine misfiring, Spark plug replacement
+148,23850,63159, Suspension Repair; Oil Change, Steering issues, Suspension adjustment
+149,29285,35102, Engine Repair; Tire Alignment, Misaligned tires, Tire alignment
+150,49065,72665, Battery Replacement; General Maintenance, Dead battery, Battery replacement
+151,27512,49136, Exhaust Leak; Diagnostics, Exhaust leak, Exhaust system repair
+152,40777,42568, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement
+153,17239,52103, Tire Alignment; General Maintenance, Tire wear, Tire rotation and balancing
+154,17471,31831, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush
+155,15004,64700, Brake Repair; Tire Replacement, Body damage, Body repair
+156,12920,65544, Fluid Leak; Oil Change, Fluid leak, Fluid replacement
+157,29414,57380, General Maintenance; Engine Diagnostics, Check engine light, Diagnostic scan
+158,13894,67849, Brake Service; Oil Change, Brake wear, Brake replacement
+159,17114,35859, Tire Replacement; Engine Check, Tire wear, Tire rotation and balancing
+160,5598,73408, Exhaust Repair; Brake Fluid Change, Exhaust noise, Exhaust system repair
+161,51282,55328, Oil Change; Brake Inspection, Brake noise, Brake pad replacement
+162,5023,38677, Engine Repair; Diagnostics, Engine misfire, Diagnostic scan
+163,7343,52488, Tire Rotation; Brake Service, Tire wear, Tire rotation and balancing
+164,42873,56970, Fluid Check; Oil Change, Low oil, Oil replacement
+165,57035,73701, Brake Inspection; General Maintenance, Brake noise, Brake pad replacement
+166,52492,65834, Engine Diagnostics; Tune-Up, Engine roughness, Spark plug replacement
+167,32366,37358, Transmission Fluid Change; Brake Service, Slipping transmission, Transmission fluid change
+168,23925,38521, General Maintenance; Tire Inspection, Tire wear, Tire rotation
+169,42970,53268, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement
+170,35010,42512, Exhaust Repair; Engine Check, Exhaust noise, Exhaust system repair
+171,39971,57652, Battery Inspection; General Maintenance, Dead battery, Battery replacement
+172,31348,37376, Fluid Leak; Tire Rotation, Fluid leak, Fluid replacement
+173,41726,43315, Engine Repair; Brake Service, Engine overheating, Cooling system flush
+174,6743,33322, Brake Inspection; Oil Change, Brake noise, Brake pad replacement
+175,27099,59046, Tire Replacement; Diagnostics, Tire damage, Tire replacement
+176,36899,51050, General Maintenance; Engine Repair, Engine misfiring, Spark plug replacement
+177,6339,46897, Suspension Repair; Oil Change, Steering issues, Suspension adjustment
+178,56899,72467, Brake Service; Tire Inspection, Brake wear, Brake pad replacement
+179,19205,72408, Fluid Check; Engine Diagnostics, Fluid leak, Fluid replacement
+180,24103,43119, Tire Alignment; Brake Inspection, Misaligned tires, Tire alignment
+181,31427,44921, Exhaust Leak; General Maintenance, Exhaust noise, Exhaust system repair
+182,14528,61300, Brake Repair; Oil Change, Brake noise, Brake pad replacement
+183,32817,62465, Oil Change; Brake Repair, Brake noise, Brake pad replacement
+184,14708,34122, Transmission Service; Diagnostics, Transmission slipping, Transmission fluid change
+185,40273,65169, Tire Replacement; Oil Change, Poor fuel economy, Fuel system cleaning
+186,31616,41413, Exhaust Repair; Brake Service, Exhaust noise, Exhaust system repair
+187,65798,72885, Brake Inspection; Tire Rotation, Misaligned wheels, Wheel alignment
+188,21960,34446, General Maintenance; Engine Check, Engine misfiring, Spark plug replacement
+189,22081,71844, Suspension Repair; Oil Change, Steering issues, Suspension adjustment
+190,36673,48546, Engine Repair; Tire Alignment, Misaligned tires, Tire alignment
+191,40087,71596, Battery Replacement; General Maintenance, Dead battery, Battery replacement
+192,48689,73251, Exhaust Leak; Diagnostics, Exhaust leak, Exhaust system repair
+193,27930,32806, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement
+194,31280,65955, Tire Alignment; General Maintenance, Tire wear, Tire rotation and balancing
+195,49462,60389, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush
+196,11391,45816, Brake Repair; Tire Replacement, Body damage, Body repair
+197,18750,44984, Fluid Leak; Oil Change, Fluid leak, Fluid replacement
+198,28619,52398, General Maintenance; Engine Diagnostics, Check engine light, Diagnostic scan
+199,16457,73377, Brake Service; Oil Change, Brake wear, Brake replacement
+200,20625,68037, Tire Replacement; Engine Check, Tire wear, Tire rotation and balancing
+201,36421,45683, Exhaust Repair; Brake Fluid Change, Exhaust noise, Exhaust system repair
+202,39980,42447, Oil Change; Brake Inspection, Brake noise, Brake pad replacement
+203,7070,31450, Engine Repair; Diagnostics, Engine misfire, Diagnostic scan
+204,34126,47308, Tire Rotation; Brake Service, Tire wear, Tire rotation and balancing
+205,22944,37313, Fluid Check; Oil Change, Low oil, Oil replacement
+206,17795,44149, Brake Inspection; General Maintenance, Brake noise, Brake pad replacement
+207,29261,35583, Engine Diagnostics; Tune-Up, Engine roughness, Spark plug replacement
+208,30067,47680, Transmission Fluid Change; Brake Service, Slipping transmission, Transmission fluid change
+209,53792,54038, General Maintenance; Tire Inspection, Tire wear, Tire rotation
+210,56643,60977, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement
+211,59392,65275, Exhaust Repair; Engine Check, Exhaust noise, Exhaust system repair
+212,12849,57173, Battery Inspection; General Maintenance, Dead battery, Battery replacement
+213,10737,50697, Fluid Leak; Tire Rotation, Fluid leak, Fluid replacement
+214,13666,61293, Engine Repair; Brake Service, Engine overheating, Cooling system flush
+215,58612,65417, Brake Inspection; Oil Change, Brake noise, Brake pad replacement
+216,6754,36812, Tire Replacement; Diagnostics, Tire damage, Tire replacement
+217,8480,44521, General Maintenance; Engine Repair, Engine misfiring, Spark plug replacement
+218,22394,31053, Suspension Repair; Oil Change, Steering issues, Suspension adjustment
+219,57301,67584, Brake Service; Tire Inspection, Brake wear, Brake pad replacement
+220,32561,38839, Fluid Check; Engine Diagnostics, Fluid leak, Fluid replacement
+221,29306,40813, Tire Alignment; Brake Inspection, Misaligned tires, Tire alignment
+222,46860,64960, Exhaust Leak; General Maintenance, Exhaust noise, Exhaust system repair
+223,58257,70989, Brake Repair; Oil Change, Brake noise, Brake pad replacement
+224,6764,34970, Oil Change; Brake Repair, Brake noise, Brake pad replacement
+225,31056,55090, Transmission Service; Diagnostics, Transmission slipping, Transmission fluid change
+226,48167,49005, Tire Replacement; Oil Change, Poor fuel economy, Fuel system cleaning
+227,51120,71570, Exhaust Repair; Brake Service, Exhaust noise, Exhaust system repair
+228,6547,39161, Brake Inspection; Tire Rotation, Misaligned wheels, Wheel alignment
+229,37158,60676, General Maintenance; Engine Check, Engine misfiring, Spark plug replacement
+230,29204,35202, Suspension Repair; Oil Change, Steering issues, Suspension adjustment
+231,19402,45521, Engine Repair; Tire Alignment, Misaligned tires, Tire alignment
+232,26263,33258, Battery Replacement; General Maintenance, Dead battery, Battery replacement
+233,29625,48249, Exhaust Leak; Diagnostics, Exhaust leak, Exhaust system repair
+234,32356,37524, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement
+235,16271,41142, Tire Alignment; General Maintenance, Tire wear, Tire rotation and balancing
+236,37983,69993, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush
+237,23920,41093, Brake Repair; Tire Replacement, Body damage, Body repair
+238,14229,63273, Fluid Leak; Oil Change, Fluid leak, Fluid replacement
+239,12225,49743, General Maintenance; Engine Diagnostics, Check engine light, Diagnostic scan
+240,39607,40221, Brake Service; Oil Change, Brake wear, Brake replacement
+241,38127,61715, Tire Replacement; Engine Check, Tire wear, Tire rotation and balancing
+242,21605,34412, Exhaust Repair; Brake Fluid Change, Exhaust noise, Exhaust system repair
+243,9473,42504, Oil Change; Brake Inspection, Brake noise, Brake pad replacement
+244,18361,39323, Engine Repair; Diagnostics, Engine misfire, Diagnostic scan
+245,53124,61677, Tire Rotation; Brake Service, Tire wear, Tire rotation and balancing
+246,11365,53743, Fluid Check; Oil Change, Low oil, Oil replacement
+247,33098,68823, Brake Inspection; General Maintenance, Brake noise, Brake pad replacement
+248,21709,67277, Engine Diagnostics; Tune-Up, Engine roughness, Spark plug replacement
+249,33151,59526, Transmission Fluid Change; Brake Service, Slipping transmission, Transmission fluid change
+250,34124,53899, General Maintenance; Tire Inspection, Tire wear, Tire rotation
+251,23914,44031, Battery Replacement; General Maintenance, Dead battery, Battery replacement
+252,34794,34883, Exhaust Leak; Diagnostics, Exhaust leak, Exhaust system repair
+253,52964,64208, Oil Change; Brake Fluid Change, Brake fluid leak, Brake fluid replacement
+254,34350,36789, Tire Alignment; General Maintenance, Tire wear, Tire rotation and balancing
+255,16246,44528, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush
+256,9042,42928, Brake Repair; Tire Replacement, Body damage, Body repair
+257,54275,64396, Fluid Leak; Oil Change, Fluid leak, Fluid replacement
+258,48597,64403, General Maintenance; Engine Diagnostics, Check engine light, Diagnostic scan
+259,8918,52343, Brake Service; Oil Change, Brake wear, Brake replacement
+260,34326,44150, Tire Replacement; Engine Check, Tire wear, Tire rotation and balancing
+261,57798,71150, Exhaust Repair; Brake Fluid Change, Exhaust noise, Exhaust system repair
+262,5562,64892, Oil Change; Brake Inspection, Brake noise, Brake pad replacement
+263,20087,32769, Engine Repair; Diagnostics, Engine misfire, Diagnostic scan
+264,14251,60610, Tire Rotation; Brake Service, Tire wear, Tire rotation and balancing
+265,19336,37603, Fluid Check; Oil Change, Low oil, Oil replacement
+266,29187,36135, Brake Inspection; General Maintenance, Brake noise, Brake pad replacement
+267,41130,54487, Engine Diagnostics; Tune-Up, Engine roughness, Spark plug replacement
+268,26111,66515, Transmission Fluid Change; Brake Service, Slipping transmission, Transmission fluid change
+269,48979,55452, General Maintenance; Tire Inspection, Tire wear, Tire rotation
+270,22617,34734, Oil Change; Tire Alignment, Misaligned tires, Tire alignment
+271,11126,56638, Brake Repair; Engine Check, Brake noise, Brake pad replacement
+272,12253,32957, Transmission Repair; Oil Change, Slipping transmission, Transmission fluid change
+273,26361,51670, Exhaust Leak; Tire Inspection, Exhaust noise, Exhaust system repair
+274,59441,71501, Fluid Leak; Brake Inspection, Fluid leak, Fluid replacement
+275,64957,67940, Engine Diagnostics; Oil Change, Engine misfire, Diagnostic scan
+276,67748,69583, Suspension Repair; General Maintenance, Steering issues, Suspension adjustment
+277,11882,48210, Tire Rotation; Brake Service, Tire wear, Tire rotation
+278,16972,70116, Brake Fluid Change; Oil Change, Brake fluid leak, Brake fluid replacement
+279,43317,44802, Engine Check; Tire Replacement, Tire damage, Tire replacement
+280,22231,48511, Transmission Fluid Change; Diagnostics, Transmission slipping, Transmission fluid change
+281,7821,39847, Oil Change; Brake Repair, Brake noise, Brake pad replacement
+282,48758,69038, Fluid Check; General Maintenance, Fluid leak, Fluid replacement
+283,60376,69389, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush
+284,28666,42519, Tire Alignment; Brake Fluid Change, Misaligned tires, Tire alignment
+285,18293,36781, Exhaust Repair; Oil Change, Exhaust noise, Exhaust system repair
+286,29342,45410, Brake Inspection; Tire Rotation, Brake noise, Brake pad replacement
+287,29584,35857, Engine Diagnostics; Oil Change, Check engine light, Diagnostic scan
+288,32027,57940, Fluid Leak; Tire Replacement, Fluid leak, Fluid replacement
+289,26840,42416, General Maintenance; Engine Repair, Engine roughness, Spark plug replacement
+290,31438,46075, Brake Repair; Oil Change, Brake noise, Brake pad replacement
+291,28787,39598, Tire Alignment; Brake Inspection, Misaligned wheels, Wheel alignment
+292,10406,34047, Suspension Repair; Tire Inspection, Steering issues, Suspension adjustment
+293,19817,56996, Exhaust Leak; General Maintenance, Exhaust noise, Exhaust system repair
+294,61137,74768, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush
+295,6891,69189, Oil Change; Tire Alignment, Misaligned tires, Tire alignment
+296,23438,45220, Brake Repair; Engine Check, Brake noise, Brake pad replacement
+297,10080,46617, Transmission Repair; Oil Change, Slipping transmission, Transmission fluid change
+298,14551,50007, Exhaust Leak; Tire Inspection, Exhaust noise, Exhaust system repair
+299,17046,44393, Fluid Leak; Brake Inspection, Fluid leak, Fluid replacement
+300,66661,73594, Engine Diagnostics; Oil Change, Engine misfire, Diagnostic scan
+301,17516,74747, Suspension Repair; General Maintenance, Steering issues, Suspension adjustment
+302,16914,36486, Tire Rotation; Brake Service, Tire wear, Tire rotation
+303,22885,67087, Brake Fluid Change; Oil Change, Brake fluid leak, Brake fluid replacement
+304,12367,48365, Engine Check; Tire Replacement, Tire damage, Tire replacement
+305,41347,63926, Transmission Fluid Change; Diagnostics, Transmission slipping, Transmission fluid change
+306,37875,58623, Oil Change; Brake Repair, Brake noise, Brake pad replacement
+307,7215,34650, Fluid Check; General Maintenance, Fluid leak, Fluid replacement
+308,10113,68140, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush
+309,50716,53452, Tire Alignment; Brake Fluid Change, Misaligned tires, Tire alignment
+310,51057,53419, Exhaust Repair; Oil Change, Exhaust noise, Exhaust system repair
+311,12753,62110, Brake Inspection; Tire Rotation, Brake noise, Brake pad replacement
+312,56668,60721, Engine Diagnostics; Oil Change, Check engine light, Diagnostic scan
+313,62993,64338, Fluid Leak; Tire Replacement, Fluid leak, Fluid replacement
+314,63275,64429, General Maintenance; Engine Repair, Engine roughness, Spark plug replacement
+315,27219,55792, Brake Repair; Oil Change, Brake noise, Brake pad replacement
+316,53645,61210, Tire Alignment; Brake Inspection, Misaligned wheels, Wheel alignment
+317,17941,48592, Suspension Repair; Tire Inspection, Steering issues, Suspension adjustment
+318,27494,56672, Exhaust Leak; General Maintenance, Exhaust noise, Exhaust system repair
+319,42048,45118, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush
+320,43148,55693, Oil Change; Tire Alignment, Misaligned tires, Tire alignment
+321,15771,51057, Brake Repair; Engine Check, Brake noise, Brake pad replacement
+322,23892,37934, Transmission Repair; Oil Change, Slipping transmission, Transmission fluid change
+323,18861,59325, Exhaust Leak; Tire Inspection, Exhaust noise, Exhaust system repair
+324,37834,51650, Fluid Leak; Brake Inspection, Fluid leak, Fluid replacement
+325,21129,33598, Engine Diagnostics; Oil Change, Engine misfire, Diagnostic scan
+326,14180,59581, Suspension Repair; General Maintenance, Steering issues, Suspension adjustment
+327,31302,35899, Tire Rotation; Brake Service, Tire wear, Tire rotation
+328,59009,60741, Brake Fluid Change; Oil Change, Brake fluid leak, Brake fluid replacement
+329,52448,58406, Engine Check; Tire Replacement, Tire damage, Tire replacement
+330,33750,74779, Transmission Fluid Change; Diagnostics, Transmission slipping, Transmission fluid change
+331,49302,59755, Oil Change; Brake Repair, Brake noise, Brake pad replacement
+332,47064,60579, Fluid Check; General Maintenance, Fluid leak, Fluid replacement
+333,7651,31886, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush
+334,43353,50985, Tire Alignment; Brake Fluid Change, Misaligned tires, Tire alignment
+335,51105,60500, Exhaust Repair; Oil Change, Exhaust noise, Exhaust system repair
+336,35450,49901, Brake Inspection; Tire Rotation, Brake noise, Brake pad replacement
+337,20833,57127, Engine Diagnostics; Oil Change, Check engine light, Diagnostic scan
+338,12510,32079, Fluid Leak; Tire Replacement, Fluid leak, Fluid replacement
+339,9622,52780, General Maintenance; Engine Repair, Engine roughness, Spark plug replacement
+340,32759,39052, Brake Repair; Oil Change, Brake noise, Brake pad replacement
+341,28600,33579, Tire Alignment; Brake Inspection, Misaligned wheels, Wheel alignment
+342,71365,74804, Suspension Repair; Tire Inspection, Steering issues, Suspension adjustment
+343,19218,73284, Exhaust Leak; General Maintenance, Exhaust noise, Exhaust system repair
+344,20674,54436, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush
+345,5082,68147, Oil Change; Tire Alignment, Misaligned tires, Tire alignment
+346,9910,56806, Brake Repair; Engine Check, Brake noise, Brake pad replacement
+347,47464,73545, Transmission Repair; Oil Change, Slipping transmission, Transmission fluid change
+348,25420,33719, Exhaust Leak; Tire Inspection, Exhaust noise, Exhaust system repair
+349,51961,63306, Fluid Leak; Brake Inspection, Fluid leak, Fluid replacement
+350,19505,43994, Engine Diagnostics; Oil Change, Engine misfire, Diagnostic scan
+351,31053,48921, Suspension Repair; General Maintenance, Steering issues, Suspension adjustment
+352,50284,53336, Tire Rotation; Brake Service, Tire wear, Tire rotation
+353,36329,62567, Brake Fluid Change; Oil Change, Brake fluid leak, Brake fluid replacement
+354,53975,65367, Engine Check; Tire Replacement, Tire damage, Tire replacement
+355,27788,59290, Transmission Fluid Change; Diagnostics, Transmission slipping, Transmission fluid change
+356,28989,63871, Oil Change; Brake Repair, Brake noise, Brake pad replacement
+357,10139,40238, Fluid Check; General Maintenance, Fluid leak, Fluid replacement
+358,22007,39587, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush
+359,33534,53546, Tire Alignment; Brake Fluid Change, Misaligned tires, Tire alignment
+360,16975,51071, Exhaust Repair; Oil Change, Exhaust noise, Exhaust system repair
+361,22461,51292, Brake Inspection; Tire Rotation, Brake noise, Brake pad replacement
+362,16578,38442, Engine Diagnostics; Oil Change, Check engine light, Diagnostic scan
+363,22432,44135, Fluid Leak; Tire Replacement, Fluid leak, Fluid replacement
+364,22424,30693, General Maintenance; Engine Repair, Engine roughness, Spark plug replacement
+365,24762,44978, Brake Repair; Oil Change, Brake noise, Brake pad replacement
+366,13406,68099, Tire Alignment; Brake Inspection, Misaligned wheels, Wheel alignment
+367,32328,54838, Suspension Repair; Tire Inspection, Steering issues, Suspension adjustment
+368,51260,54001, Exhaust Leak; General Maintenance, Exhaust noise, Exhaust system repair
+369,51871,54072, Engine Overheating; Tune-Up, Engine overheating, Cooling system flush
+370,16732,57525, Oil Change; Tire Alignment, Misaligned tires, Tire alignment
+371,39524,45654, Brake Repair; Engine Check, Brake noise, Brake pad replacement
+372,14679,38810, Transmission Repair; Oil Change, Slipping transmission, Transmission fluid change
+373,39360,47527, Exhaust Leak; Tire Inspection, Exhaust noise, Exhaust system repair
+374,40553,46201, Fluid Leak; Brake Inspection, Fluid leak, Fluid replacement
+375,54456,58302, Engine Diagnostics; Oil Change, Engine misfire, Diagnostic scan
+376,14465,45806, Suspension Repair; General Maintenance, Steering issues, Suspension adjustment
+377,18592,32420, Tire Rotation; Brake Service, Tire wear, Tire rotation
+378,30511,38003, Brake Fluid Change; Oil Change, Brake fluid leak, Brake fluid replacement
+379,15640,58767, Engine Check; Tire Replacement, Tire damage, Tire replacement
+376,34529,35061, Suspension Repair; General Maintenance, Steering issues, Suspension adjustment
+377,23322,34688, Tire Rotation; Brake Service, Tire wear, Tire rotation
+378,47460,49416, Brake Fluid Change; Oil Change, Brake fluid leak, Brake fluid replacement
+379,25770,65629, Engine Check; Tire Replacement, Tire damage, Tire replacement
+376,28026,54768, Suspension Repair; General Maintenance, Steering issues, Suspension adjustment
+377,8868,31177, Tire Rotation; Brake Service, Tire wear, Tire rotation
+378,27004,61379, Brake Fluid Change; Oil Change, Brake fluid leak, Brake fluid replacement
+379,28485,52090, Engine Check; Tire Replacement, Tire damage, Tire replacement
+380,9533,40722, Battery Check; Oil Change, Battery drainage, Battery replacement
+381,29369,32349, AC Service; Engine Tune-Up, AC not cooling, AC repair
+382,21786,30536, Wheel Alignment; Brake Inspection, Misalignment, Wheel alignment
+383,20929,30114, Fuel Filter Change; Oil Change, Fuel blockage, Fuel filter replacement
+384,46526,55740, Timing Belt Replacement; Engine Check, Timing issues, Timing belt replacement
+385,23375,66177, Transmission Fluid Change; Brake Service, Gear slipping, Transmission fluid replacement
+386,65681,66614, Radiator Flush; Cooling System Check, Overheating, Radiator repair
+387,40125,65987, Light Replacement; General Maintenance, Flickering lights, Headlight replacement
+388,12667,57915, Exhaust System Repair; Emission Test, Loud exhaust, Exhaust repair
+389,19254,47328, Oil Filter Change; Tire Rotation, Oil leak, Oil filter replacement
+390,22369,31270, Spark Plug Replacement; Engine Diagnostics, Poor acceleration, Spark plug replacement
+391,49717,52238, Clutch Replacement; Brake Inspection, Sticking clutch, Clutch repair
+392,14332,64576, Fuel Injection Service; Oil Change, Rough idling, Fuel injector cleaning
+393,42380,74687, Windshield Wiper Replacement; General Maintenance, Streaky wipers, Wiper replacement
+394,53554,56447, Power Steering Fluid Change; Tire Rotation, Hard steering, Power steering service
+395,51952,56170, Differential Service; Brake Fluid Change, Noise while turning, Differential repair
+396,6045,37125, Antifreeze Change; Engine Check, Cooling issues, Antifreeze replacement
+397,10846,59644, Serpentine Belt Replacement; General Maintenance, Squeaking noise, Belt replacement
+398,23583,63782, Engine Filter Change; Tire Replacement, Decreased power, Engine filter replacement
+399,37792,44163, Safety Inspection; Brake Service, Warning lights, Inspection service
+400,21995,42175, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+401,33931,73716, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+402,13107,38280, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration
+403,62656,64294, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration
+404,19670,69268, Headlight Restoration; Oil Change, Scratched headlights, Headlight restoration
+405,51162,51928, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration
+406,17780,46951, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration
+407,37778,61025, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+408,31892,36687, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration
+409,47198,67205, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration
+410,11772,32497, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+411,22166,30848, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+412,37025,43853, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration
+413,42801,46141, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration
+414,29777,56272, Headlight Restoration; Oil Change, Scratched headlights, Headlight restoration
+415,52216,74691, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration
+416,59526,66603, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration
+417,29767,54699, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+418,20132,74765, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration
+419,22802,38656, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration
+420,38674,39024, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+421,5113,65993, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration
+422,18203,38250, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration
+423,11024,38327, Headlight Restoration; Oil Change, Scratched headlights, Headlight restoration
+424,13850,55805, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration
+425,13141,58586, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration
+426,5826,74367, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+427,6015,51025, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration
+428,56162,60146, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration
+429,37383,41201, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+430,21326,50345, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+431,33204,42854, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration
+432,19423,48284, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration
+433,23732,39083, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration
+434,8870,62818, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+435,15087,56727, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration
+436,22776,42214, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration
+437,13438,62300, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+438,7654,71946, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration
+439,29078,64945, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration
+440,62156,72427, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration
+441,17903,34258, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+442,69247,73074, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration
+443,12180,35766, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration
+444,31542,33093, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration
+445,20521,47921, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+446,54770,55225, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration
+447,15477,42726, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration
+448,11471,56873, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+449,23749,53520, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration
+450,41130,56946, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration
+451,29746,44751, Headlight Restoration; Oil Change, Scratched headlights, Headlight restoration
+452,27381,49214, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration
+453,11757,41618, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration
+454,16857,73551, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+455,46173,47829, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration
+456,46255,59592, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration
+457,17560,41886, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration
+458,23348,43011, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+459,25100,41816, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration
+460,44526,55651, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration
+461,31791,65664, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration
+462,28429,37290, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+463,5311,36014, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration
+464,23032,62899, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration
+465,54437,69596, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration
+466,42204,70359, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+467,62928,65132, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration
+468,13150,58144, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration
+469,49244,66059, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration
+470,45480,48179, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+471,44036,69446, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration
+472,16449,51928, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration
+473,17832,39959, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration
+474,9183,69697, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+475,29002,72991, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration
+476,10251,51252, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration
+477,10891,44706, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration
+478,35088,51203, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+479,55703,65006, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration
+480,29293,42405, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration
+481,55510,69736, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration
+482,34043,41837, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+483,38609,57332, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration
+484,37813,50603, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration
+485,46236,55066, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration
+486,47787,49988, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+487,5615,42966, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration
+488,18451,44898, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration
+489,14100,68445, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration
+490,67917,72747, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+491,42463,48580, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration
+492,29759,53792, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration
+493,15543,35703, Headlight Restoration; Engine Tune-Up, Faded headlights, Headlight restoration
+494,23568,60667, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+495,46683,70820, Headlight Restoration; Battery Replacement, Cloudy headlights, Headlight restoration
+496,22632,46146, Headlight Restoration; Suspension Check, Dull headlights, Headlight restoration
+497,28472,60898, Headlight Restoration; Tire Alignment, Cloudy headlights, Headlight restoration
+498,24776,56291, Headlight Restoration; Oil Change, Cloudy headlights, Headlight restoration
+499,24257,42972, Headlight Restoration; Brake Check, Dim headlights, Headlight restoration
+500,24463,36934, Headlight Restoration; Tire Rotation, Yellowed headlights, Headlight restoration
