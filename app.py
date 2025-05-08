@@ -7,8 +7,15 @@ import joblib
 def load_model_and_encoders():
     model = joblib.load('service_prediction_model.pkl')
     encoders = joblib.load('label_encoders.pkl')
-    df = pd.read_csv("vehicle_data.csv")
+    df = pd.read_csv("C:/Users/i.hanis/PycharmProjects/VehicleMaintenance/data/vehicle_data.csv")
     df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")
+
+    # Recompute problem_frequency if not present
+    df['common_problem'] = df['common_problem'].astype(str)
+    if 'problem_frequency' not in df.columns:
+        problem_counts = df.groupby('common_problem').size().reset_index(name='problem_frequency')
+        df = pd.merge(df, problem_counts, on='common_problem', how='left')
+
     return model, encoders, df
 
 model, encoders, df = load_model_and_encoders()
@@ -28,10 +35,13 @@ if submitted:
         mileage_diff = current_mileage - mileage_last_service
         service_interval_ratio = mileage_diff / (mileage_last_service + 1)
 
+        # Handle problem frequency safely
         if common_problem in df['common_problem'].values:
             problem_frequency = df[df['common_problem'] == common_problem]['problem_frequency'].mean()
-        else:
+        elif 'problem_frequency' in df.columns:
             problem_frequency = df['problem_frequency'].mean()
+        else:
+            problem_frequency = 0.0
 
         if common_problem in encoders['common_problem'].classes_:
             common_problem_encoded = encoders['common_problem'].transform([common_problem])[0]
@@ -47,3 +57,5 @@ if submitted:
         st.success(f"Recommended Service: {predicted_service}")
     except Exception as e:
         st.error(f"Prediction failed: {e}")
+
+ 
