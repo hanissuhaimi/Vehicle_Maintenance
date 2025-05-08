@@ -7,7 +7,7 @@ import joblib
 def load_model_and_encoders():
     model = joblib.load('service_prediction_model.pkl')
     encoders = joblib.load('label_encoders.pkl')
-    df = pd.read_csv("C:/Users/i.hanis/PycharmProjects/VehicleMaintenance/data/vehicle_data.csv")
+    df = pd.read_csv("vehicle_data.csv")
     df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")
     return model, encoders, df
 
